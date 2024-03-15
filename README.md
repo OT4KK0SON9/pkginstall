@@ -11,5 +11,12 @@ pkg install python3
 
 git clone https://github.com/OT4KK0SON9/pkginstall
 
+
+cd pkginstall
+
+
+
+
+python3 pilih.py
 # Lapor Error
 https://wa.me/6283841852697?text=Error
