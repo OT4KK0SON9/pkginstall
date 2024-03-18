@@ -23,7 +23,7 @@ ____""")
 			import src.full
 		elif pilih == 3:
 			import src.backup
-		else: print("[!] Ngasal Jir(o)");self.menu()
+		else: print("[!] Ngasal Jir");self.menu()
 
 	def detekos(self):
 		#remove cache
