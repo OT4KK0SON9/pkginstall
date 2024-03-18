@@ -9,12 +9,12 @@ class Main:
 		print("""_____
 
 1.kecil
-2. sedang
-3. full
+2.sedang
+3.full
 4.backup
 - selamat puasa -
 ____""")
-		pilih=int(input('apa/> '))
+		pilih=int(input('Otak Kosong > '))
 		if pilih == 1:
 			import src.kecil
 		elif pilih == 2:
