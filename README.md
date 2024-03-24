@@ -2,6 +2,10 @@
 Termux Install
 
 # • 
+
+
+
+
 pkg Install git
 
 
