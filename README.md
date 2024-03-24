@@ -17,6 +17,6 @@ cd pkginstall
 
 
 
-python3 pilih.py
+python3 pilih.sh
 # Lapor Error
 https://wa.me/6283841852697?text=Error
